@@ -1,13 +1,4 @@
-/**
- * @File EmailSample.java
- * @package com.ilhsk.email
- * @Description 
- * @Modification Information
- * @ProjectName  NetmarbleNeo Project
- * @Author ilhsk
- * @Since 2021. 10. 5.
- * @Copyright Copyright (c) 2021 NetmarbleNeo, Corp. All Rights Reserved.
- */
+
 package com.ilhsk.email;
 
 import java.io.IOException;
